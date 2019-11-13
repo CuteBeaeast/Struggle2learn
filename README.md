@@ -13,7 +13,7 @@ University Students, especially in ShanghaiTech(my university), struggles to lea
 
 ## 2.	Current contents
 
-### [SHTU_CS101_2019Sp_by_pxq](https://github.com/CuteBeaeast/Struggle2learn/SHTU_CS101_2019Sp_by_pxq)
+### [SHTU_CS101_2019Sp_by_pxq](https://github.com/CuteBeaeast/Struggle2learn/tree/master/SHTU_CS101_2019Sp_by_pxq)
 
 * CS101_Midterm_review.md
 
